@@ -1,0 +1,40 @@
+
+1 contributor
+26 lines (20 sloc) 0.74 kb
+*** AC3 *** (deadline: 05/Out/2014 23:59)
+1.- Git push + git pull request of one standards-based requirements document of your choice.
+2.- Git push + git pull request this file marking with Y (yes) or N (no) if the chosen requirements documents includes the given chapters and the notation elements used.
+
+Document used as base for this activity: http://www.cse.chalmers.se/~feldt/courses/reqeng/examples/srs_example_2010_group2.pdf
+
+### Structure of a requirements document
+No : Preface
+Yes : Introduction
+Yes : Glossary
+Yes : User requirements definition
+Yes : System architecture
+Yes : System requirements specification
+Yes : System models
+Yes : System evolution
+Yes : Appendices
+Yes : Index
+### Notation
+Yes : Natural language
+No : Structured natural language
+No : Design description languages
+No : Graphical notations
+No : Mathematical specifications
+
+    Status
+    API
+    Training
+    Shop
+    Blog
+    About
+
+    © 2014 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Contact
+
